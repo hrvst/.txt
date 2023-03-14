@@ -1,0 +1,7 @@
+About me.
+Name: Ruslan.
+Last name:Bekmukhametov.
+Age: 31.
+Pet: 1.
+Sallary: 600.
+

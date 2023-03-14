@@ -1,0 +1,6 @@
+Course skills:
+-Git bash commands
+-Postman
+-Charles
+-Android studio
+

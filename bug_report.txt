@@ -1,1 +1,16 @@
-
+Bug report.
+Id:
+- 1
+Environment:
+- Windows 10 Pro 
+- Google Chrome 107.0.5304.88 x64
+Precondition:
+- Open site https://test-site.test
+Title:
+- User cant use socialmedia link on start page
+STR:
+- Click on Instagram icon
+Expected result:
+- In new tab will opened instagram profile
+Actual result:
+- Nothing happened
